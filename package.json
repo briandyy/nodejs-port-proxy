@@ -1,0 +1,14 @@
+{
+  "name": "Proxy Website to 80",
+  "version": "1.0.0",
+  "description": "proxy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  },
+  "author": "Afif Febriandy",
+  "license": "ISC"
+}
